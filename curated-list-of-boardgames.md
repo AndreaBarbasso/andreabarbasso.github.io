@@ -34,7 +34,7 @@ Il turno di gioco ricorda molto la presa del Mahjong, rendendo il gioco fruibili
 
 Siamo gestori di geishe. E meno male che siamo in oriente, perchè se no saremmo stati papponi, e il gioco sarebbe subito diventato Squillo, e per carità adoro il Casto Divo ma Squillo è un _giocodimmerda_.
 
-Dobbiamo ottenere le attenzioni delle geishe più belle, seguendo la meccanica "_I cut, you choose_", ossia: io ricevo delle risorse (in questo caso le geishe), io le divido in due gruppi (secondo delle regole dettate dal gioco), tu scegli un gruppo da prendere e io ottengo quello che non hai scelto.
+Dobbiamo ottenere le attenzioni delle geishe più belle, seguendo la meccanica "I cut, you choose", ossia: io ricevo delle risorse (in questo caso le geishe), io le divido in due gruppi (secondo delle regole dettate dal gioco), tu scegli un gruppo da prendere e io ottengo quello che non hai scelto.
 
 Una meccanica assolutamente sottorappresentata ma geniale, perchè ribalta completamente una struttura mentale alla quale siamo legati in maniera quasi primordiale. Un gioco che non stanca mai.
 
