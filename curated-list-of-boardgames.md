@@ -24,7 +24,7 @@ Il turno di gioco ricorda molto la presa del Mahjong, rendendo il gioco fruibili
 
 ### 2. [Hanamikoji](https://www.dungeondice.it/2871-hanamikoji.html)
 
-<img class="game-cover" src="https://img.dungeondice.it/28790-large_default/hanamikoji.jpg">
+<img class="game-cover" src="https://www.msedizioni.it/wp-content/uploads/2019/10/hanamikoji-msedizioni.jpg">
 
 > 2 giocatori, 15 minuti, complessità bassa
 
