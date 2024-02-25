@@ -8,6 +8,8 @@ Il sottoscritto, ormai (felicemente) bombardato di domande del tipo "_Maaaa mi c
 
 Le categorie non sono a compartimenti stagni (ad esempio, un party game può essere - anzi, _molto probabilmente è_ - anche un light game), ma sono state pensate per rendere chiaro il "feeling" principale che il gioco propone.
 
+La complessità misura la difficoltà ad "entrare nel gioco" (es. durata della spiegazione, numero di mosse disponibili, conseguenze di una mossa errata, ecc) e non la sua profondità.
+
 Infine, i giochi all'interno di ogni categoria sono proposti in ordine di gradimento personale.
 
 ## Giochi esclusivamente per due giocatori
@@ -16,7 +18,7 @@ Infine, i giochi all'interno di ogni categoria sono proposti in ordine di gradim
 
 <img class="game-cover" src="https://m.media-amazon.com/images/I/816pdWfEOJL._AC_UF1000,1000_QL80_.jpg">
 
-> 2 giocatori, 30 minuti, complessità media
+> 2 giocatori, 30 minuti, complessità medio-bassa
 
 Ogni giocatore ha delle meraviglie del mondo antico (sia ufficiali che ufficiose) da costruire, nel tentativo di sovrastare l'avversario nel campo militare (con vittoria immediata se la capitale opposta viene saccheggiata), scientifico (con vittoria immediata se si raggiunge la supremazia in tale ambito) o civile (a fine partita, facendo più punti dell'avversario).
 
@@ -45,6 +47,44 @@ Gioco co-creato dal papà di Magic (Richard Garfield), che ricorda tanto una ver
 Ogni giocatore ha tre punti vita e un mazzo di 10 creature prese a caso tra tutte le carte disponibili nel gioco. Nel proprio turno si fa solo una di due cose: o si gioca una carta, o si attacca con una creatura. L'avversario perde se scende a 0 punti vita.
 
 Il colpo di genio sta nel fatto che ogni giocatore è dotato di tre carte "Mindbug", che permettono di rubare una carta appena giocata dall'avversario. Questo rimuove la quasi totalità di alea nel gioco, rendendolo un esercizio di bluff e ottimizzazione. Un universo che sta in tasca. 
+
+* * *
+
+## Astratti
+
+### 1. [Hive](https://www.dungeondice.it/2938-hive.html)
+
+<img class="game-cover" src="https://www.gen42.com/images/games/hive/1.%20Hive%20Box%20-%20Front.jpg">
+
+> 2 giocatori, 20 minuti, complessità medio-bassa
+
+In una frase: scacchi senza la scacchiera. Vinci circondando l'ape regina avversaria, grazie alla diversa capacità di movimento di ogni pezzo.
+
+Meno profondo degli scacchi (_grazie al cazzo_), ma non di molto, e anche più immediato. L'astratto perfetto da avere sempre con sè.
+
+### 2. [Onitama](https://www.dungeondice.it/11142-onitama.html)
+
+<img class="game-cover" src="https://img.dungeondice.it/67226-large_default/onitama.jpg">
+
+> 2 giocatori, 15-20 minuti, complessità bassa
+
+Siamo in Giappone, ma qui non si può non dire _Panta rei_. Cinque pedine a testa, una è il Sensei. Si vince mangiando il Sensei avversario o occupando trono avversario con il proprio Sensei.
+
+Nel mio turno, semplicemente, scelgo una mia pedina e una _mossa_, mostrata da una delle due carte di fronte a me, che indica come tale pedina può spostarsi. Dopo aver effettuato il movimento, prendo la carta della mossa utilizzata e la metto al centro del tavolo, ottenendo la carta che va a sostituire. Il mio avversario giocherà una delle sue due mosse, e la sostituirà con quella al centro del tavolo, ottenendo quindi la mossa da me precedentemente giocata, e via così, in un flusso continuo di azioni.
+
+Si usano solo cinque mosse per partita, e la scatola ne contiene 16, rendendo il gioco virtualmente infinito. Semplicemente bellissimo.
+
+### 3. [Santorini](https://www.dungeondice.it/10609-santorini.html)
+
+<img class="game-cover" src="https://storage.googleapis.com/ecommerchant-media/media/cache/2b/9a/2b9a43ae0f01988460fcf257399b15ad.jpg">
+
+> 2-4 giocatori, 20 minuti, complessità media
+
+Riedizione di un classico, ambientato nell'isola greca più amata dalle _instagrammers_.
+
+Nel mio turno muovo una mia pedina e costruisco adiacente ad essa un piano di un edificio. Muovendomi posso salire solo di un piano alla volta, ma non ho limiti in discesa. Lo scopo del gioco è salire al terzo piano di un edificio.
+
+La difficoltà sta nel fatto che si può costruire una cupola sopra a un terzo piano, cosa che rende vano ogni tentativo di vittoria utilizzando tale edificio. La riedizione implementa anche la modalità a 4 giocatori (due contro due) e un sacco di personaggi che danno abilità diverse, tutte incredibilmente ben bilanciate. E, mai come qui, anche l'occhio ha la sua parte.
 
 * * *
 
