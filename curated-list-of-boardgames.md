@@ -4,11 +4,11 @@ title: SirBarbaffo's Curated List of Boardgames
 description: Non sarà la miglior lista del mondo, ma è fatta con il ❤.
 ---
 
-Il sottoscritto, ormai (felicemente) bombardato di domande del tipo "_Maaaa mi consigli qualche bel gioco da tavolo?_", ha deciso che fosse l'ora di compilare una lista (assolutamente __non__ esaustiva) di giochi che ritiene interessanti, divertenti, intriganti, particolari o, semplicemente, belli.
+Il sottoscritto, ormai (felicemente) bombardato di domande del tipo "_Maaaa mi consigli qualche bel gioco da tavolo?_", ha deciso che fosse ora di compilare una lista (assolutamente __non__ esaustiva) di giochi che ritiene interessanti, divertenti, intriganti, particolari o, semplicemente, belli.
 
-Le categorie non sono a compartimenti stagni (ad esempio, un party game può essere - anzi, molto probabilmente è - anche un light game), ma sono state pensate per rendere chiaro il "feeling" principale che il gioco propone.
+Le categorie non sono a compartimenti stagni (ad esempio, un party game può essere - anzi, _molto probabilmente è_ - anche un light game), ma sono state pensate per rendere chiaro il "feeling" principale che il gioco propone.
 
-Infine, i giochi all'interno di ogni categoria sono proposti in ordine di gradimento personale. _De gustibus non disputandum est_, tranne i miei se attinenti a questo tema. D'altronde, sono un 🐲 dei giochi da tavolo.
+Infine, i giochi all'interno di ogni categoria sono proposti in ordine di gradimento personale.
 
 ## Giochi esclusivamente per due giocatori
 
