@@ -14,7 +14,7 @@ Infine, i giochi all'interno di ogni categoria sono proposti in ordine di gradim
 
 ### 1. [7 Wonders Duel](https://www.dungeondice.it/100-7-wonders-duel.html)
 
-<img class="game-cover" src="https://img.dungeondice.it/954-large_default/7-wonders-duel.jpg">
+<img class="game-cover" src="https://m.media-amazon.com/images/I/816pdWfEOJL._AC_UF1000,1000_QL80_.jpg">
 
 > 2 giocatori, 30 minuti, complessità media
 
