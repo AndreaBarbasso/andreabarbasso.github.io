@@ -10,6 +10,8 @@ Le categorie non sono a compartimenti stagni (ad esempio, un party game può ess
 
 La complessità misura la difficoltà ad "entrare nel gioco" (es. durata della spiegazione, numero di mosse disponibili, conseguenze di una mossa errata, ecc) e non la sua profondità.
 
+Cliccare sul titolo porta alla sua pagina su [dungeondice.it](https://www.dungeondice.it/), dove potrete trovare altre informazioni.  
+
 Infine, i giochi all'interno di ogni categoria sono proposti in ordine di gradimento personale.
 
 ## Giochi esclusivamente per due giocatori
